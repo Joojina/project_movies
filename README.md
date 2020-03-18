@@ -3,7 +3,7 @@
 <img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/_20200318_120525.png'></img>
 
 
-### 영화의 흥행 순위와 장르적 특성을 알아 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
+### 영화의 흥행 순위와 장르적 특성을 알아보고 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
 > ## 빅데이터 분석<br/>
 >> TMDB 분석 : https://github.com/Joojina/project_final/blob/master/tmdb.ipynb<br/>
 >> IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb_genres.ipynb<br/>
