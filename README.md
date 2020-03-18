@@ -7,7 +7,7 @@
 > IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb_genres.ipynb<br/>
 > 머신러닝<br/>
 >>LinearRegression : https://github.com/Joojina/project_final/blob/master/imdb_LinearRegression.ipynb<br/>
->>DecisionTree : https://github.com/Joojina/project_final/blob/master/%EC%98%88%EC%B8%A1%EC%B9%98_DecisionTree.ipynb
+>>DecisionTree : https://github.com/Joojina/project_final/blob/master/usa_cut_DecisionTree.ipynb
 
 ## 세대별(10s/00s/90s) 장르 인기
 <img width="" height="" src='https://github.com/Joojina/test_Django/blob/master/hello/g_s.jpg'></img>
