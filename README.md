@@ -3,7 +3,7 @@
 
 
 ### 영화의 흥행 순위와 장르적 특성을 알아내고 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
-> TMDB 분석: https://github.com/Joojina/project_final/blob/master/tmdb.ipynb
+> TMDB 분석: https://github.com/Joojina/project_final/blob/master/tmdb.ipynb<br/>
 > IMDB 분석: https://github.com/Joojina/project_final/blob/master/imdb_genres.ipynb
 
 ## 세대별(10s/00s/90s) 장르 인기
