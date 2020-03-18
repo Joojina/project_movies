@@ -15,8 +15,6 @@
 <img width="" height="" src='https://github.com/Joojina/test_Django/blob/master/hello/g_s.jpg'></img>
 
 
-## 장르별 수익성 결정트리(머신러닝-Decision Tree)
-<img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/genre_dt.png'></img>
 
 
 ## 국가별/장르/세대별 수익성 (머신러닝-LinearRegression)
@@ -27,5 +25,7 @@
 
 ## 
 
+## 장르별 수익성 결정트리(머신러닝-Decision Tree)
+<img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/genre_dt.png'></img>
 
 
