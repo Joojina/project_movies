@@ -11,7 +11,7 @@
 >> LinearRegression : https://github.com/Joojina/project_final/blob/master/imdb_LinearRegression.ipynb<br/>
 >> DecisionTree : https://github.com/Joojina/project_final/blob/master/usa_cut_DecisionTree.ipynb
 
-## 세대별(10s/00s/90s) 장르 인기
+## 세대별(10s/00s/90s) 장르 인기 척도
 <img width="" height="" src='https://github.com/Joojina/test_Django/blob/master/hello/g_s.jpg'></img>
 
 
