@@ -19,9 +19,10 @@
 
 
 ## 국가별/장르/세대별 수익성 (머신러닝-LinearRegression)
-### 전세계 수익은 북미 수익과 높은 관련성 띄움
+###### 전세계 수익은 북미 수익과 매우 높은 관련성을 띔
 <img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/lr_usa_gr.png'></img>
 
+## 
 
 
 
