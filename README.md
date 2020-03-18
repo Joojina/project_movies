@@ -1,9 +1,6 @@
 # 어떤 영화에 투자하시겠습니까?
 
-* 영화
-** 투자
-* - 
-<img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/20200318_120525.png'></img>
+<img width="" height="" src='https://github.com/Joojina/Joojina/blob/master/_20200318_120525.png'></img>
 
 
 ### 영화의 흥행 순위와 장르적 특성을 알아내고 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
