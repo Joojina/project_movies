@@ -6,10 +6,10 @@
 ### 영화의 흥행 순위와 장르적 특성을 알아보고 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
 > ## 빅데이터 분석<br/>
 >> TMDB 분석 : https://github.com/Joojina/project_final/blob/master/tmdb.ipynb<br/>
->> IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb_genres.ipynb<br/>
+>> IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb_genre_analyze.ipynb<br/>
 > ## 머신러닝<br/>
->> LinearRegression : https://github.com/Joojina/project_final/blob/master/imdb_Linear_Regression.ipynb<br/>
->> DecisionTree : https://github.com/Joojina/project_final/blob/master/usa_cut_DecisionTree.ipynb
+>> LinearRegression : shorturl.at/fpyLQ<br/>
+>> DecisionTree : shorturl.at/fBLZ8<br/>
 
 ## 세대별(10s/00s/90s) 장르 인기 척도
 <img width="" height="" src='https://github.com/Joojina/test_Django/blob/master/hello/g_s.jpg'></img>
