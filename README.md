@@ -6,7 +6,7 @@
 ### 영화의 흥행 순위와 장르적 특성을 알아보고 나라별, 세대별로 데이터 시각화하여 향후 영화 투자/수익에 도움이 될 데이터분석 제공 
 > ## 빅데이터 분석<br/>
 >> TMDB 분석 : https://github.com/Joojina/project_final/blob/master/tmdb.ipynb<br/>
->> IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb_genre_analyze.ipynb<br/>
+>> IMDB 분석 : https://github.com/Joojina/project_final/blob/master/imdb.ipynb<br/>
 > ## 머신러닝<br/>
 >> LinearRegression : [shorturl.at/fpyLQ](shorturl.at/fpyLQ)<br/>
 >> DecisionTree : [shorturl.at/fBLZ8](shorturl.at/fBLZ8)<br/>
